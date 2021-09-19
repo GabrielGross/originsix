@@ -93,18 +93,14 @@ body {
 .divider1 {
   height: 2px;
   background: linear-gradient(
-    270deg,
-    hsla(var(--hue), 36%, 57%, 1),
-    hsla(var(--hue), 65%, 88%, 0.34)
+    270deg, rgb(109, 130, 153), rgb(49, 107, 131)
   );
 }
 
 .divider2 {
   height: 2px;
   background: linear-gradient(
-    270deg,
-    hsla(var(--hue), 65%, 88%, 0.34),
-    hsla(var(--hue), 36%, 57%, 1)
+   270deg, rgb(109, 130, 153), rgb(49, 107, 131)
   );
 }
 
